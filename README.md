@@ -10,9 +10,8 @@ Model Training: Implement Decision Tree, Random Forest, and Linear Regression mo
 User-Friendly Predictions: Allow users to input details for individual loan applicants and receive risk predictions.
 
 Getting Started:
-Clone the repository: git clone https://github.com/your-username/loan-risk-prediction.git
-Install dependencies: pip install -r requirements.txt
-Run the main script: python loan_prediction.py
+Add Datasets: Download and place Training & Testing datasets.
+Run the jupyter notebook: ML project.ipynb
 
 Usage:
 Follow the prompts to input applicant details for personalized predictions.
